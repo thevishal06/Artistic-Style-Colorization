@@ -1,0 +1,1 @@
+Artistic Style Colorization: A model that applies color to grayscale images based on various artistic styles (e.g., impressionism, realism). Users can upload grayscale images and select a preferred artistic style, and the model will generate colorized outputs reflecting the chosen style.
